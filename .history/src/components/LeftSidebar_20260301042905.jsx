@@ -112,7 +112,7 @@ function LeftSidebar() {
           </a>
 
           <a
-            href="https://github.com/sebdiel"
+            href="https://github.com/TU_USUARIO"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-xl bg-slate-800 hover:bg-sky-500 transition duration-300"

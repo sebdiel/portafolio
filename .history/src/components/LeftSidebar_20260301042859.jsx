@@ -113,7 +113,7 @@ function LeftSidebar() {
 
           <a
             href="https://github.com/sebdiel"
-            target="_blank"
+            target="_blank"git add .
             rel="noopener noreferrer"
             className="p-2 rounded-xl bg-slate-800 hover:bg-sky-500 transition duration-300"
           >

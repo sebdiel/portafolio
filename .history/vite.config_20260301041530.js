@@ -8,4 +8,4 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: '/portafolio/' // importante, debe coincidir con el nombre del repo
-})
+})npm run build
